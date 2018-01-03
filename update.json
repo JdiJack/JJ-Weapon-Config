@@ -1,5 +1,5 @@
 {
-    "homepage": "https://minecraft.curseforge.com/projects/jj-coats-of-arms",
+    "homepage": "https://minecraft.curseforge.com/projects/jj-weapon-config",
     "promos": {
         "1.10-latest": "1.0.0",
         "1.10-recommended": "1.0.0",
@@ -9,12 +9,12 @@
         "1.10.2-recommended": "1.0.0"
     },
     "1.10": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coats-of-arms/files/2496829\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
     },
     "1.10.1": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coats-of-arms/files/2496829\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
     },
     "1.10.2": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coats-of-arms/files/2496829\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
     }
 }
