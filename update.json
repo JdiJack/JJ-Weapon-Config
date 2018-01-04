@@ -1,20 +1,38 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jj-weapon-config",
     "promos": {
-        "1.10-latest": "1.0.0",
-        "1.10-recommended": "1.0.0",
-        "1.10.1-latest": "1.0.0",
-        "1.10.1-recommended": "1.0.0",
-        "1.10.2-latest": "1.0.0",
-        "1.10.2-recommended": "1.0.0"
+        "1.10-latest": "1.0.1",
+        "1.10-recommended": "1.0.1",
+        "1.10.1-latest": "1.0.1",
+        "1.10.1-recommended": "1.0.1",
+        "1.10.2-latest": "1.0.1",
+        "1.10.2-recommended": "1.0.1",
+        "1.12-latest": "1.0.1",
+        "1.12-recommended": "1.0.1",
+        "1.12.1-latest": "1.0.1",
+        "1.12.1-recommended": "1.0.1",
+        "1.12.2-latest": "1.0.1",
+        "1.12.2-recommended": "1.0.1"
     },
     "1.10": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509\n",
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516720\n"
     },
     "1.10.1": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509\n",
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516720\n"
     },
     "1.10.2": {
-        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516509\n",
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516720\n"
+    },
+    "1.12": {
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516721\n"
+    },
+    "1.12.1": {
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516721\n"
+    },
+    "1.12.2": {
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-weapon-config/files/2516721\n"
     }
 }
