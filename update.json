@@ -1,5 +1,8 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jj-weapon-config",
+    "msg_custom": "",
+    "url_custom": "https://www.curseforge.com/members/jdijack_/projects",
+    "hover_custom": "visit the page",
     "promos": {
         "1.10-latest": "1.0.2",
         "1.10-recommended": "1.0.2",
